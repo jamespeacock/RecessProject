@@ -1,0 +1,23 @@
+{
+  "name": "recess-project",
+  "version": "1.0.0",
+  "description": "working on mean stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "fuck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamespeacock/RecessProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamespeacock/RecessProject/issues"
+  },
+  "homepage": "https://github.com/jamespeacock/RecessProject#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "latest"
+  }
+}
